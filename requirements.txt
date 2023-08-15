@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+Pillow
+pytesseract
+keras
+opencv-python
+speechrecognition
+pyaudio
+pyttsx3
+tensorflow
+PyQt5
